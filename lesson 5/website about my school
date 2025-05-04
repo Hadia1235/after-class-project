@@ -1,0 +1,55 @@
+<html>
+    <head>
+       <title>
+        Website of my school
+       </title>
+    </head>
+    <body>
+        <header>
+           <h1>All about my school</h1>  
+           <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#posts">Posts</a></li>
+                <li><a href="#contact">Contacts</a></li>
+            </ul>
+           </nav>
+        </header>
+        <main>
+            <section>
+                <article> 
+                      <h2>
+                        Website about my school
+                      </h2>
+                      <p>
+                        Maxwell Heights Secondary School, located in northeast Oshawa, Ontario, is a public high school within the Durham District School Board. Established in September 2009, it serves approximately 1,600 students in grades 9 through 12. The school operates on a modified calendar, starting a week earlier than traditional schools and closing for a week in November.Academic Excellence and Programs
+Maxwell Heights offers a diverse range of programs, including Specialist High Skills Majors (SHSM) in Health and Wellness, Information and Communication Technology (ICT), and Construction. Students also have opportunities to earn college credits through dual-credit courses. 
+Homepage. The school has been recognized for its academic achievements, receiving the 2018 Dr. Bette M. Stephenson Recognition of Achievement from EQAO for improvements in Grade 9 Math scores. 
+Homepage. Arts and Athletics
+Maxwell Heights boasts a strong arts program, with students excelling in visual arts, music, and dance. The Visual Arts Department offers courses in drawing, painting, sculpting, and printmaking, and students regularly participate in exhibitions such as the 'For Art's Sake' show at the Robert McLaughlin Gallery. 
+In athletics, the school has achieved success in various sports, including boys and girls lacrosse, wrestling, track and field, cross country, and tennis. The Maxwell Dance Company (MDC) is also widely decorated. 
+Maxwell Heights is deeply committed to community involvement. Students participate in initiatives such as Relay for Life, raising over $60,000 annually for the Canadian Cancer Society, and the Empty Bowls event, which supports local food charities. Other activities include food drives, blood donations, and hosting Iftar dinners. 
+                      </p>
+                </article>
+                <aside>
+                    <p>
+                        Graduation Requirements
+To graduate with an Ontario Secondary School Diploma (OSSD), students must complete 30 credits, including 18 compulsory courses, 40 hours of community involvement, and pass the Ontario Secondary School Literacy Test (OSSLT). Additionally, students are required to earn two online learning credits. 
+Homepage
+
+For more information, visit the school's official website: Maxwell Heights Secondary School
+                    </p>
+                </aside>
+            </section>
+            <figure>
+                <img src="maxwell heights.jpg" alt="school" width="50%" height="50%">
+            </figure>
+        </main>
+        <footer>
+            <p>
+                 Maxwell heights staff
+                @maxwellheightssecandaryschool@gmail.com
+            </p>
+        </footer>
+    </body>
+</html>
